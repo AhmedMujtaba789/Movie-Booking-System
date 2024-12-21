@@ -1,0 +1,8 @@
+Movie: Bollywood Movie 1
+Showtime: 1:00 PM
+Seats: [A5]
+-------------------------
+Movie: Bollywood Movie 2
+Showtime: 7:00 PM
+Seats: [A1]
+-------------------------
